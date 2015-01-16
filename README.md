@@ -1,3 +1,3 @@
 # HeatherDrain.com Placeholder
 
-Placeholder single page site for <heatherdrain.com>.
+Placeholder single page site for <http://heatherdrain.com>.
